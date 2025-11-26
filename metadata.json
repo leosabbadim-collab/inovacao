@@ -1,0 +1,5 @@
+{
+  "name": "NexusManager AI",
+  "description": "An AI-powered continuous management system for engineering teams and projects. Tracks skills, demands, and project progress to provide strategic insights.",
+  "requestFramePermissions": []
+}
